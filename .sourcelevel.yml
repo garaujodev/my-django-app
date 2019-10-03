@@ -6,7 +6,7 @@ engines:
     channel: stable
   radon:
     enabled: true
-    channel: latest
+    channel: stable
   bandit:
     enabled: true
     channel: latest
