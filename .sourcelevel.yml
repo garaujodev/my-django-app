@@ -12,5 +12,5 @@ engines:
     channel: latest
   pep8:
     enabled: true
-    channel: latest
+    channel: stable
 exclude_paths: []
